@@ -1,10 +1,6 @@
 .uig--spinner--spring--onion {
   width: 50px;
   height: 50px;
-  border-bottom: 5px solid rgb(174, 238, 0);
-  border-top: 5px solid rgb(248, 151, 5);
-  border-left: 1px solid rgb(43, 226, 58);
-  border-right: 1px solid rgb(196, 207, 30);
   border-radius: 100%;
   animation: rotate 0.9s infinite linear, borders 0.5s infinite;
   box-sizing: border-box;

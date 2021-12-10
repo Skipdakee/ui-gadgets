@@ -1,0 +1,11 @@
+.main--container {
+  margin: 0 auto;
+  min-width: 768px;
+}
+
+.spinner--container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
