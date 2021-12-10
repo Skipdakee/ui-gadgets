@@ -1,0 +1,19 @@
+.uig--button--basic {
+  border: 1px solid rgb(204, 40, 177);
+  color: rgb(204, 40, 177);
+  border-radius: 3px;
+  cursor: pointer;
+  padding: 5px 15px;
+  box-sizing: border-box;
+}
+
+.uig--button--basic:hover {
+  background-color: rgb(204, 40, 177);
+  color: whitesmoke;
+}
+
+.uig--button--basic:active {
+  background-color: whitesmoke;
+  color: rgb(125, 40, 204);
+  border: 1px solid rgb(125, 40, 204);
+}
