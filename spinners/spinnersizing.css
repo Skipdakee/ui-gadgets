@@ -1,0 +1,19 @@
+.small {
+  width: 20px;
+  height: 20px;
+}
+
+.medium {
+  width: 50px;
+  height: 50px;
+}
+
+.large {
+  width: 100px;
+  height: 100px;
+}
+
+.monumental {
+  width: 300px;
+  height: 300px;
+}
