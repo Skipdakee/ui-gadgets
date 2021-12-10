@@ -1,0 +1,23 @@
+.uig--spinner--classic {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  animation: rotate 0.9s infinite linear;
+  box-sizing: border-box;
+  border-top: 5px solid rgb(204, 40, 177);
+  border-left: 5px solid rgb(230, 218, 229);
+  border-right: 5px solid whitesmoke;
+  border-bottom: 5px solid whitesmoke;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0);
+  }
+  40% {
+    transform: rotate(100deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
